@@ -1,4 +1,4 @@
-## Hi there 👋
+## Bilingual AI Evaluator (EN/PT), specialist in the gastronomy sector (over 15 years of experience), Quality Assurance (QA) generalist, student of Python and Linux systems.
 
 <!--
 **fernandoissob/fernandoissob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
